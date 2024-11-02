@@ -1,7 +1,7 @@
-int a, b,c, sum;
-a=2, b=3;
-
-sum = a+b;
-c=sum;
-
-system.out"your sum is:& sum";
+#include <iostream>
+using namespace std;
+int int main() {
+    cout<<"Hello World"<<std: :endl;
+    std::cout << "This is my first c++ program" << std::endl;
+    return 0;
+}
