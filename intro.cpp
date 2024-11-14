@@ -1,7 +1,18 @@
 #include <iostream>
+#include <vector>
+#include <string>
+
 using namespace std;
-int int main() {
-    cout<<"Hello World"<<std: :endl;
-    std::cout << "This is my first c++ program" << std::endl;
+
+int main()
+{
+    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+
+    for (const string& word : msg)
+    {
+        cout << word << " ";
+    }
+    cout << endl;
+
     return 0;
 }

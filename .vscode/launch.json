@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/cye-kimtai/codes/c++ ",
-      "program": "/home/cye-kimtai/codes/c++ /build/Debug/outDebug",
+      "cwd": "/home/cye-kimtai/Dev/Cplusplus",
+      "program": "/home/cye-kimtai/Dev/Cplusplus/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
